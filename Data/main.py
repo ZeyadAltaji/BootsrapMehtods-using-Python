@@ -1,7 +1,7 @@
 import numpy as np
 import random
 import matplotlib.pyplot as plt
-# code  with
+# code  with Zeyad Altaji
 MyData = np.random.normal(loc= 300.0, size=1000)
 print(np.mean(MyData))
 
